@@ -4,6 +4,6 @@ Will it hit the corner?
 
 __Preview__ : 
 
-![preview](index.html)
+![preview](./index.html)
 
 
